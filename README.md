@@ -20,13 +20,18 @@ on a computer without having to carry the book around.
 ```
 3. How to get started
 1) You need to install Apache2, MySql, PHP
-refer to https://webnautes.tistory.com/1185
+(refer to https://webnautes.tistory.com/1185)
+
+2) Move 'final.html', 'introduce.html', 'bible.html', 'hymns.html'
+   to var\www\html
+   
+3) Go to the website !
+   youripaddress/final.html
 ```
 
 ```
 4. Need more help
 ```
 
-```
+
 PRESENTATION VIDEO
-```
