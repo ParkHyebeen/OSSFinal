@@ -4,8 +4,8 @@
 ```
 1. What does this project do?
 
-This project conveys Jesus' love to those who do not know him
-and recommends good hymns and Bible words.
+This project conveys Jesus' love to those 
+who do not know him and recommends good hymns and Bible words.
 ```
 
 ```
