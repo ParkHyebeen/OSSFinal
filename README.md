@@ -72,4 +72,4 @@ https://m.blog.naver.com/jooeun0502/221956294941
 
 
 PRESENTATION VIDEO
-https://www.youtube.com/watch?v=3ptCN6e2LHg
+https://www.youtube.com/watch?v=G6Ct-AUX2PQ
